@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="src/" kind="src" path=""/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3-dist.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/icu4j-3.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-1.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-1.9.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-1.9.3-lite.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-1.9.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-acegisecurity-1.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-acegisecurity-1.9.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-acegisecurity-1.9.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-hibernate3-1.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-hibernate3-1.9.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-hibernate3-1.9.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-hibernate4-1.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-hibernate4-1.9.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-hibernate4-1.9.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-hibernate5-1.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-hibernate5-1.9.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-hibernate5-1.9.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-spring2-1.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-spring2-1.9.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-spring2-1.9.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-spring3-1.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-spring3-1.9.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-spring3-1.9.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-spring4-1.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-spring4-1.9.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-spring4-1.9.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-spring31-1.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-spring31-1.9.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-spring31-1.9.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-springsecurity2-1.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-springsecurity2-1.9.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-springsecurity2-1.9.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-springsecurity3-1.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-springsecurity3-1.9.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-springsecurity3-1.9.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-springsecurity4-1.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-springsecurity4-1.9.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-springsecurity4-1.9.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-wicket13-1.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-wicket13-1.9.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-wicket13-1.9.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-wicket15-1.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-wicket15-1.9.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jakub/Downloads/jasypt-1.9.3/lib/jasypt-wicket15-1.9.3-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
