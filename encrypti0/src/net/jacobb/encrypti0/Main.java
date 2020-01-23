@@ -4,7 +4,7 @@ import java.util.*;
 
 public class Main {
 	
-	//kod https://stackoverflow.com/questions/29226813/simple-encryption-in-java-no-key-password
+	//jak działa szyfrowanie: https://stackoverflow.com/questions/29226813/simple-encryption-in-java-no-key-password
 	
 	private static Scanner choice;
 
@@ -13,8 +13,10 @@ public class Main {
 		choice = new Scanner(System.in);
 		
 		String input;
+		String message = "Wybierz skrypt: \n A = Szyfrowanie \n B = Odszyfrowanie";
+		String addon = " \n Exit = Wyjście z aplikacji";
 		
-		System.out.println("Wybierz skrypt: \n A = Szyfrowanie \n B = Odszyfrowanie");
+		System.out.println(message);
 		
 		while (true) {
 			
@@ -30,7 +32,7 @@ public class Main {
 				System.exit(0);
 			}
 			else {
-				System.out.println("Wybierz skrypt: \n A = Szyfrowanie \n B = Odszyfrowanie \n Exit = Wyjście z aplikacji");
+				System.out.println(message + addon);
 			}
 		}
 	}

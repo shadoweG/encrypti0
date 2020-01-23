@@ -3,7 +3,9 @@ package net.jacobb.encrypti0;
 import java.util.Scanner;
 import org.jasypt.encryption.pbe.StandardPBEStringEncryptor;
 
-public class Decryption extends Encryption {
+public class Decryption {
+	
+	private final static String hashed = "ha$hed";
 	
 	private static Scanner deInput;
 	
@@ -11,17 +13,17 @@ public class Decryption extends Encryption {
 		
 		deInput = new Scanner(System.in);
 		
-		String hashed = "ha$hed";
 		String deInputS;
 		
-		System.out.println("Co mam odha$hować?: ");
+		System.out.print("Co mam odszyfrować?: ");
 		deInputS = deInput.nextLine();
 		
 		StandardPBEStringEncryptor encryptor = new StandardPBEStringEncryptor();
 		encryptor.setPassword(hashed);
 
 		String decrypted = encryptor.decrypt(deInputS);
-		System.out.println("Odha$howana wiadomość to: " + decrypted);
+		
+		System.out.println("Odszyfrowana wiadomość to: " + decrypted);
 		
 	}
 
