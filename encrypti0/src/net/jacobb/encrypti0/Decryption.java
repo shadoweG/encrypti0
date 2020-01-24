@@ -5,7 +5,7 @@ import org.jasypt.encryption.pbe.StandardPBEStringEncryptor;
 
 public class Decryption {
 	
-	private final static String hashed = "ha$hed";
+	private final static String hashed = "ha$h420";
 	
 	private static Scanner deInput;
 	

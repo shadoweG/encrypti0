@@ -4,7 +4,8 @@ import java.util.*;
 
 public class Main {
 	
-	//jak działa szyfrowanie: https://stackoverflow.com/questions/29226813/simple-encryption-in-java-no-key-password
+	// jak działa szyfrowanie: https://stackoverflow.com/questions/29226813/simple-encryption-in-java-no-key-password
+	// api do szyfrowania do "jasypt" (wersja 1.9.3): https://github.com/jasypt/jasypt
 	
 	private static Scanner choice;
 
